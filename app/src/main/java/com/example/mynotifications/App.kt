@@ -9,7 +9,7 @@ class App : Application() {
         super.onCreate()
         restartNotificationService()
         // PRUEBA
-        val prueba = "Hola prueba"
+        val prueba = "Hola prueba desde dell"
     }
 
     private fun restartNotificationService() {
