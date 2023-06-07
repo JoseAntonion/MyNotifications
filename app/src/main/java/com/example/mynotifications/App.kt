@@ -8,6 +8,8 @@ class App : Application() {
     override fun onCreate() {
         super.onCreate()
         restartNotificationService()
+        // PRUEBA
+        val prueba = "Hola prueba"
     }
 
     private fun restartNotificationService() {
